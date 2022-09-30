@@ -1,0 +1,30 @@
+header{
+    color: rgb(6, 125, 65);
+    background-color: rgb(17, 207, 33);
+    text-align: center;
+    border-radius: 10px;
+}
+
+legend{
+    text-align: center;
+}
+fieldset{
+    margin-right: 50px;
+    margin-left: 40px;
+    /* width: 40%; */
+}
+
+form{
+    border-radius: 20px;
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000)
+}
+
+.btn{
+    text-align: center;
+    text-decoration: solid;
+    align-items: center;
+    margin-left: 150px;
+    background-color: rgba(31, 211, 187, 0.736);
+    padding: 10px 160px 10px 150px;
+
+}
